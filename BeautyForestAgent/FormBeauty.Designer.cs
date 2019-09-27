@@ -262,7 +262,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormBeauty";
-            this.Text = "Beauty Forest Agent v0.4 by [학번] [이름]";
+            this.Text = "Beauty Forest Agent v0.4 by 3117 정은주";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.cmsMenu.ResumeLayout(false);
